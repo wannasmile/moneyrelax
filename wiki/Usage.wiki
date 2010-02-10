@@ -1,0 +1,7 @@
+#使用说明.
+
+
+= 细节 =
+
+ * 下载并安装最新版的 [http://www.erlang.org Erlang/OTP]; (R13 以后应该都可以)
+ * 编辑 start.bat： 将 ERLANG_HOME 指向正确的 Erlang 安装目录

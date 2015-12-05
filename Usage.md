@@ -1,0 +1,10 @@
+#使用说明.
+
+
+# 细节 #
+
+  * 下载并安装最新版的 [Erlang/OTP](http://www.erlang.org); ([R13](https://code.google.com/p/moneyrelax/source/detail?r=13) 以后应该都可以)
+  * 下载并安装 OpenSSL >= 0.9.8.4. (或者单独下载 libeay32.dll 放到 erlxxx/erts-xxx/bin 目录下)
+> > 方便起见，也可从这里 http://code.google.com/p/moneyrelax/downloads/list 下载 libeay32.dll.
+  * 编辑 start.bat： 将 ERLANG\_HOME 指向正确的 Erlang 安装目录
+  * 运行 start.bat.
